@@ -7,6 +7,8 @@ The dashboard addresses this gap by enabling managers to analyze flight delays a
 
 This Dashboard was created in tandem with the Sun Country Delays Excel project as an extra user-friendly tool to explore delay trends across multiple dimensions, such as aircraft, arrival airports, delay codes, and managers on duty (MOD), to pinpoint recurring issues. There are two dashboards in this report that show the same visuals, although one visual shows all delays while the other shows only controllable delay data.
 
+The interactive Power BI dashboards can be downloaded [here](https://github.com/Shepshub/Sun-Country-Power-Bi/raw/refs/heads/main/Delays%20SEP%20&%20AUG.pbix)
+
 ## Data Structure Overview
 ![image](https://github.com/user-attachments/assets/283c4527-03a3-406c-8571-f68d2d05319c)
 
